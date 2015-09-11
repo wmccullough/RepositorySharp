@@ -4,3 +4,9 @@ C:\Users\Will\Documents\GitHub\RepositorySharp\src\RepositorySharp\Repository.Pa
 C:\Users\Will\Documents\GitHub\RepositorySharp\src\RepositorySharp\Repository.Pattern\obj\Debug\Repository.Pattern.csprojResolveAssemblyReference.cache
 C:\Users\Will\Documents\GitHub\RepositorySharp\src\RepositorySharp\Repository.Pattern\obj\Debug\Repository.Pattern.dll
 C:\Users\Will\Documents\GitHub\RepositorySharp\src\RepositorySharp\Repository.Pattern\obj\Debug\Repository.Pattern.pdb
+C:\Users\wmccullough\Documents\GitHub\RepositorySharp\src\RepositorySharp\Repository.Pattern\bin\Debug\Repository.Pattern.dll.config
+C:\Users\wmccullough\Documents\GitHub\RepositorySharp\src\RepositorySharp\Repository.Pattern\bin\Debug\Repository.Pattern.dll
+C:\Users\wmccullough\Documents\GitHub\RepositorySharp\src\RepositorySharp\Repository.Pattern\bin\Debug\Repository.Pattern.pdb
+C:\Users\wmccullough\Documents\GitHub\RepositorySharp\src\RepositorySharp\Repository.Pattern\obj\Debug\Repository.Pattern.csprojResolveAssemblyReference.cache
+C:\Users\wmccullough\Documents\GitHub\RepositorySharp\src\RepositorySharp\Repository.Pattern\obj\Debug\Repository.Pattern.dll
+C:\Users\wmccullough\Documents\GitHub\RepositorySharp\src\RepositorySharp\Repository.Pattern\obj\Debug\Repository.Pattern.pdb

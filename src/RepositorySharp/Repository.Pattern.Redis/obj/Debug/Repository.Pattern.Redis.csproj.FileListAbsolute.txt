@@ -1,0 +1,7 @@
+C:\Users\wmccullough\Documents\GitHub\RepositorySharp\src\RepositorySharp\Repository.Pattern.Redis\bin\Debug\Repository.Pattern.Redis.dll
+C:\Users\wmccullough\Documents\GitHub\RepositorySharp\src\RepositorySharp\Repository.Pattern.Redis\bin\Debug\Repository.Pattern.Redis.pdb
+C:\Users\wmccullough\Documents\GitHub\RepositorySharp\src\RepositorySharp\Repository.Pattern.Redis\bin\Debug\Repository.Pattern.dll
+C:\Users\wmccullough\Documents\GitHub\RepositorySharp\src\RepositorySharp\Repository.Pattern.Redis\bin\Debug\Repository.Pattern.pdb
+C:\Users\wmccullough\Documents\GitHub\RepositorySharp\src\RepositorySharp\Repository.Pattern.Redis\obj\Debug\Repository.Pattern.Redis.csprojResolveAssemblyReference.cache
+C:\Users\wmccullough\Documents\GitHub\RepositorySharp\src\RepositorySharp\Repository.Pattern.Redis\obj\Debug\Repository.Pattern.Redis.dll
+C:\Users\wmccullough\Documents\GitHub\RepositorySharp\src\RepositorySharp\Repository.Pattern.Redis\obj\Debug\Repository.Pattern.Redis.pdb

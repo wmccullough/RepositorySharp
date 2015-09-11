@@ -7,3 +7,12 @@ C:\Users\Will\Documents\GitHub\RepositorySharp\src\RepositorySharp\Service.Patte
 C:\Users\Will\Documents\GitHub\RepositorySharp\src\RepositorySharp\Service.Pattern\obj\Debug\Service.Pattern.csprojResolveAssemblyReference.cache
 C:\Users\Will\Documents\GitHub\RepositorySharp\src\RepositorySharp\Service.Pattern\obj\Debug\Service.Pattern.dll
 C:\Users\Will\Documents\GitHub\RepositorySharp\src\RepositorySharp\Service.Pattern\obj\Debug\Service.Pattern.pdb
+C:\Users\wmccullough\Documents\GitHub\RepositorySharp\src\RepositorySharp\Service.Pattern\bin\Debug\Service.Pattern.dll.config
+C:\Users\wmccullough\Documents\GitHub\RepositorySharp\src\RepositorySharp\Service.Pattern\bin\Debug\Service.Pattern.dll
+C:\Users\wmccullough\Documents\GitHub\RepositorySharp\src\RepositorySharp\Service.Pattern\bin\Debug\Service.Pattern.pdb
+C:\Users\wmccullough\Documents\GitHub\RepositorySharp\src\RepositorySharp\Service.Pattern\bin\Debug\Repository.Pattern.dll
+C:\Users\wmccullough\Documents\GitHub\RepositorySharp\src\RepositorySharp\Service.Pattern\bin\Debug\System.Net.Http.dll
+C:\Users\wmccullough\Documents\GitHub\RepositorySharp\src\RepositorySharp\Service.Pattern\bin\Debug\Repository.Pattern.pdb
+C:\Users\wmccullough\Documents\GitHub\RepositorySharp\src\RepositorySharp\Service.Pattern\obj\Debug\Service.Pattern.csprojResolveAssemblyReference.cache
+C:\Users\wmccullough\Documents\GitHub\RepositorySharp\src\RepositorySharp\Service.Pattern\obj\Debug\Service.Pattern.dll
+C:\Users\wmccullough\Documents\GitHub\RepositorySharp\src\RepositorySharp\Service.Pattern\obj\Debug\Service.Pattern.pdb

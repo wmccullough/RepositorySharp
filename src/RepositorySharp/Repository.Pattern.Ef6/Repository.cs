@@ -163,10 +163,15 @@ namespace Repository.Pattern.Ef6
             Func<IQueryable<TEntity>, IOrderedQueryable<TEntity>> orderBy = null,
             List<Expression<Func<TEntity, object>>> includes = null,
             int? page = null,
-            int? pageSize = null)
+            int? pageSize = null,
+            bool tracking = true)
         {
             IQueryable<TEntity> query = _dbSet;
 
+            if (!tracking)
+            {
+                query = query.AsNoTracking();
+            }
             if (includes != null)
             {
                 query = includes.Aggregate(query, (current, include) => current.Include(include));
